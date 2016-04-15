@@ -1,0 +1,6 @@
+#FileLock
+#Fri Apr 15 20:38:42 CEST 2016
+hostName=192.168.1.6
+id=1541b37ce8400b47bb5b3dcdde5e2adcd5c789cef84
+method=file
+server=192.168.1.6\:52691
